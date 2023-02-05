@@ -13,8 +13,7 @@ with harvard as source:
     
     print("Ending Your Speech Recognition Now...")
     
-    delay(3)
-      print("Ending Your Speech Recogtion Now...")
+  
     
     
     
