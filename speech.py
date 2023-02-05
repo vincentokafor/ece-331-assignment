@@ -12,10 +12,7 @@ with harvard as source:
     r.recognize_google(audio)
     
     print("Ending Your Speech Recognition Now...")
+       
     
-  
-    
-    
-    
-    #Project by Vincent 
+    #Project by Vincent Okafor
     
